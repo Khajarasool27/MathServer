@@ -120,7 +120,8 @@ urlpatterns = [
 ![alt text](<WhatsApp Image 2025-11-12 at 10.13.46_8982ba5a.jpg>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-11-12 101445.png>)
+![WhatsApp Image 2025-11-12 at 14 29 36_01fd8e80](https://github.com/user-attachments/assets/083cfaac-6d03-4005-92c1-a60057317bcc)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
